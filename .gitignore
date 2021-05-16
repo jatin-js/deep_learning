@@ -6,3 +6,4 @@
 **/.cache/
 .vscode
 17_data_augmentation/datasets/
+18_transfer_learning/datasets/
