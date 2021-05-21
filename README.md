@@ -1,2 +1,2 @@
-# Deep Learning using Tensorflow 2.0 and Keras
+# Deep Learning using Tensorflow and Keras
 Deep learning concepts.
